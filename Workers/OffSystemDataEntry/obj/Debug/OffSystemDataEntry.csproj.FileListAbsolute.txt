@@ -1,0 +1,7 @@
+D:\Nastya\advantica\Workers\OffSystemDataEntry\bin\Debug\OffSystemDataEntry.exe.config
+D:\Nastya\advantica\Workers\OffSystemDataEntry\bin\Debug\OffSystemDataEntry.exe
+D:\Nastya\advantica\Workers\OffSystemDataEntry\bin\Debug\OffSystemDataEntry.pdb
+D:\Nastya\advantica\Workers\OffSystemDataEntry\obj\Debug\OffSystemDataEntry.csproj.CoreCompileInputs.cache
+D:\Nastya\advantica\Workers\OffSystemDataEntry\obj\Debug\OffSystemDataEntry.exe
+D:\Nastya\advantica\Workers\OffSystemDataEntry\obj\Debug\OffSystemDataEntry.pdb
+D:\Nastya\advantica\Workers\OffSystemDataEntry\obj\Debug\OffSystemDataEntry.csprojAssemblyReference.cache

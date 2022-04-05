@@ -1,0 +1,15 @@
+D:\Nastya\advantica\Workers\Workers\bin\Debug\Workers.exe
+D:\Nastya\advantica\Workers\Workers\bin\Debug\Workers.exe.config
+D:\Nastya\advantica\Workers\Workers\obj\Debug\MainWindow.g.cs
+D:\Nastya\advantica\Workers\Workers\obj\Debug\App.g.cs
+D:\Nastya\advantica\Workers\Workers\obj\Debug\Workers_MarkupCompile.cache
+D:\Nastya\advantica\Workers\Workers\obj\Debug\Workers_MarkupCompile.lref
+D:\Nastya\advantica\Workers\Workers\obj\Debug\MainWindow.baml
+D:\Nastya\advantica\Workers\Workers\obj\Debug\Workers.g.resources
+D:\Nastya\advantica\Workers\Workers\obj\Debug\Workers.Properties.Resources.resources
+D:\Nastya\advantica\Workers\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+D:\Nastya\advantica\Workers\Workers\obj\Debug\Workers.csproj.CoreCompileInputs.cache
+D:\Nastya\advantica\Workers\Workers\obj\Debug\Workers.exe
+D:\Nastya\advantica\Workers\Workers\obj\Debug\Workers.pdb
+D:\Nastya\advantica\Workers\Workers\bin\Debug\Workers.pdb
+D:\Nastya\advantica\Workers\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
